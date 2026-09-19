@@ -1,7 +1,7 @@
 ![Kod Yağmuru](./rain.svg)
 <h1 align="center">Hi, I'm İrem 👋</h1>
 <p align="center">
-  <em>Aspiring Game Developer — I enjoy learning something new every single day 🎮</em>
+  <em>Game Developer — I enjoy learning something new every single day 🎮</em>
 </p>
 
 💻 Tech Stack
